@@ -45,9 +45,9 @@ body {
 
 .button-cta {
     height: 40px;
-    background-color: #3eb72b;
+    background-color: blue;
     border: 0;
-    border-radius: 4px;
+    border-radius: 20px;
     cursor: pointer;
     margin-top: 40px;
     color: #fff;
